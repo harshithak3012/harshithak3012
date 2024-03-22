@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Harshitha Kurakula
+- 👀 I’m interested in learning new things.
+- 🌱 I’m currently pursuing B.Tech in CSE at SRM University.
+- 💞️ I’m looking to collaborate on projects based on real-world applications.
+- 📫 You can reach me through email at kurakulaharshitha@gmail.com.
+- My hobbies include playing badminton, listening to songs, studying, and learning new things. 
